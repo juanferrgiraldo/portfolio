@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 650px;
+}
+
+.bodyWrapper {
+  display: flex;
+}
+
+.title {
+  text-align: center;
+  margin: 16px;
+}
+
+.role {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
